@@ -1,2 +1,2 @@
 # instagram-scraper
-Scraping instrgram to reveal insights like follower lists
+This project aims to leverage the Python library, Instaloader, to retrieve insights from instagram accounts.
